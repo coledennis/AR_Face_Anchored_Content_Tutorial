@@ -12,6 +12,7 @@
 		B4C7CBD628D812140037256B /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = B4C7CBD528D812140037256B /* Experience.rcproject */; };
 		B4C7CBD828D812150037256B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4C7CBD728D812150037256B /* Assets.xcassets */; };
 		B4C7CBDB28D812150037256B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4C7CBDA28D812150037256B /* Preview Assets.xcassets */; };
+		B4C7CBE228D8227E0037256B /* AR Face Anchoring Tutorial.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = B4C7CBE128D8227E0037256B /* AR Face Anchoring Tutorial.rcproject */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		B4C7CBD528D812140037256B /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		B4C7CBD728D812150037256B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B4C7CBDA28D812150037256B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B4C7CBE128D8227E0037256B /* AR Face Anchoring Tutorial.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = "AR Face Anchoring Tutorial.rcproject"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				B4C7CBD128D812140037256B /* AppDelegate.swift */,
 				B4C7CBD328D812140037256B /* ContentView.swift */,
 				B4C7CBD528D812140037256B /* Experience.rcproject */,
+				B4C7CBE128D8227E0037256B /* AR Face Anchoring Tutorial.rcproject */,
 				B4C7CBD728D812150037256B /* Assets.xcassets */,
 				B4C7CBD928D812150037256B /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B4C7CBD428D812140037256B /* ContentView.swift in Sources */,
+				B4C7CBE228D8227E0037256B /* AR Face Anchoring Tutorial.rcproject in Sources */,
 				B4C7CBD228D812140037256B /* AppDelegate.swift in Sources */,
 				B4C7CBD628D812140037256B /* Experience.rcproject in Sources */,
 			);
