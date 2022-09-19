@@ -38,14 +38,15 @@ struct ARViewContainer: UIViewRepresentable {
 //        arView.scene.anchors.append(faceAnchor)
         
         
-        
+//
         let sphereEntity = ModelEntity(mesh: .generateSphere(radius: 0.1), materials: [SimpleMaterial(color: .white, isMetallic: false)])
         let sphereAnchor = AnchorEntity(.face)
-        
+
         sphereAnchor.addChild(sphereEntity)
-        
+
         arView.scene.anchors.append(sphereAnchor)
         
+        arView.renderOptions = .disableFaceMesh
         
         return arView
         
